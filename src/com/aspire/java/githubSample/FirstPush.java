@@ -6,6 +6,8 @@ public class FirstPush {
 	{
 		System.out.println("Hi this is my First push on Git Hub");
 		System.out.println("Second change in same program");
+		System.out.println("Third change in same program");
+		System.out.println("fourth change in same program");
 	}
 
 }
